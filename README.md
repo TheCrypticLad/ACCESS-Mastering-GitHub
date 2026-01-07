@@ -9,4 +9,4 @@ My First Commit - It didn't really go out well , i ran into an error during the 
 
 **My Third Commit** I went back to GitHub to update this on, this is just for a second practice, to try the Git Pull command
 
-**My Fourth Commit** This is me trying the clone repository from Git Hub to VS Code. I updated the Read Me File with the fourth commit. 
+**My Fourth Commit** This is me trying the clone repository from Git Hub to VS Code. I updated the Read Me File with the fourth commit.
